@@ -1,6 +1,5 @@
 # WorkoutPlanner_15152
 A Python workout planner app that calculates BMI and recommends workouts.
-# Workout Planner
 
 **Name**: Eman Shafique 
 **S.I.D**: 15152
